@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+
+open class TouchIDManager {
+    
+    open class func helloWorld() {
+        debugPrint("Hello TouchIDManager class here...")
+    }
+}
