@@ -13,6 +13,7 @@
 		5D05215A1F9F87BA00A8D7CC /* TouchIDManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0521591F9F87BA00A8D7CC /* TouchIDManager.swift */; };
 		800958AB1FC6463D0039ECDC /* VBHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800958AA1FC6463D0039ECDC /* VBHeaderView.swift */; };
 		800958AE1FC647A00039ECDC /* VBController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800958AD1FC647A00039ECDC /* VBController.swift */; };
+		852FE9F621A46D0C00AF29B0 /* VBContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 852FE9F521A46D0C00AF29B0 /* VBContainerView.swift */; };
 		85F50D22215BF17A00CA2176 /* VBString+Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F50D21215BF17A00CA2176 /* VBString+Validation.swift */; };
 		85F50D24215BF2FF00CA2176 /* VBStringValidationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F50D23215BF2FF00CA2176 /* VBStringValidationTests.swift */; };
 /* End PBXBuildFile section */
@@ -37,6 +38,7 @@
 		5D0521591F9F87BA00A8D7CC /* TouchIDManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchIDManager.swift; sourceTree = "<group>"; };
 		800958AA1FC6463D0039ECDC /* VBHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VBHeaderView.swift; sourceTree = "<group>"; };
 		800958AD1FC647A00039ECDC /* VBController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VBController.swift; sourceTree = "<group>"; };
+		852FE9F521A46D0C00AF29B0 /* VBContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VBContainerView.swift; sourceTree = "<group>"; };
 		85F50D21215BF17A00CA2176 /* VBString+Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "VBString+Validation.swift"; sourceTree = "<group>"; };
 		85F50D23215BF2FF00CA2176 /* VBStringValidationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VBStringValidationTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				800958AA1FC6463D0039ECDC /* VBHeaderView.swift */,
+				852FE9F521A46D0C00AF29B0 /* VBContainerView.swift */,
 			);
 			path = components;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				5D05215A1F9F87BA00A8D7CC /* TouchIDManager.swift in Sources */,
 				800958AE1FC647A00039ECDC /* VBController.swift in Sources */,
 				800958AB1FC6463D0039ECDC /* VBHeaderView.swift in Sources */,
+				852FE9F621A46D0C00AF29B0 /* VBContainerView.swift in Sources */,
 				85F50D22215BF17A00CA2176 /* VBString+Validation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
